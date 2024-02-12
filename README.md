@@ -3,7 +3,7 @@ Explore my user interface and user experience design projects, where I focus on 
 
 
 # Technologies used
-Figma| 
+|Figma| 
 AdobeXD |
 SketchPro |
 InVision | 
